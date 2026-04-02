@@ -1,0 +1,4 @@
+Para abrir un archivo, se usa la función open(). 
+La función devuelve un objeto de archivo que puede ser usado para leer o escribir. 
+Después de realizar operaciones con el archivo, es importante cerrarlo usando 
+el método close().
